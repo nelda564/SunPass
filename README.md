@@ -29,7 +29,7 @@ SunPass is a modern, intuitive expense tracking application built to help users 
 
 **Name:** CodeWanderer  
 **Email:** codewanderer.dev@example.com  
-**Website:** SunPass  
+**Website:** [SunPass](https://www-sunpass.com)
 
 CodeWanderer is a full-stack developer and open-source contributor with a passion for building user-focused tools and applications. With over 7 years of experience in front-end development and UI/UX design, CodeWanderer is known for clean code, helping nature, and a deep understanding of scalable architectures. Always open to collaboration and mentoring new developers.
 
